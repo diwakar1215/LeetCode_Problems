@@ -11,8 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/diwakar1215/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/diwakar1215/LeetCode_Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/diwakar1215/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/diwakar1215/LeetCode_Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
