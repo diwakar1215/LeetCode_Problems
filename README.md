@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/diwakar1215/LeetCode_Problems/tree/master/3499-maximize-active-section-with-trade-i) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/diwakar1215/LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/diwakar1215/LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
