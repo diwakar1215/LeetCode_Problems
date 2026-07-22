@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/diwakar1215/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/diwakar1215/LeetCode_Problems/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/diwakar1215/LeetCode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -31,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/diwakar1215/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/diwakar1215/LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
+## Array
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/diwakar1215/LeetCode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/diwakar1215/LeetCode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/diwakar1215/LeetCode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
